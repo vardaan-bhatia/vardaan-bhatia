@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
 </p>
