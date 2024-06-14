@@ -37,13 +37,15 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" width="400" height="auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" width="400" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" width="400" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" width="400" height="195" />
+</p>
+
+
+
 
 
 
