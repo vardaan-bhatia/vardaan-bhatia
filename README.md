@@ -36,18 +36,19 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <!-- Most used languages -->
+  <div style="width: 100%; max-width: 800px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
   </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
+
+  <!-- GitHub stats and streak -->
+  <div style="display: flex; justify-content: center; width: 100%; max-width: 800px;">
+    <img style="flex: 1; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" />
+    <img style="flex: 1; max-width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
   </div>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
-</p>
 
 
 
