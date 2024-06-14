@@ -39,10 +39,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" width="400" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" width="400" height="195" />
-</p>
 
 
 
