@@ -38,16 +38,17 @@
 </p>
 <div style="display: flex; flex-direction: column; align-items: center;">
   <!-- Most used languages -->
-  <div style="width: 100%; max-width: 800px; margin-bottom: 20px;">
+  <div style="width: 100%; max-width: 600px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
   </div>
 
   <!-- GitHub stats and streak -->
-  <div style="display: flex; justify-content: center; width: 100%; max-width: 800px;">
-    <img style="flex: 1; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" />
-    <img style="flex: 1; max-width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
+  <div style="display: flex; justify-content: center; width: 100%; max-width: 600px;">
+    <img style="flex: 1; max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" />
+    <img style="flex: 1; max-width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
   </div>
 </div>
+
 
 
 
