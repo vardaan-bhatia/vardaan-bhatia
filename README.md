@@ -36,9 +36,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&locale=en&theme=dark" alt="vardaan-bhatia" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="vardaan-bhatia" width="400" />
 </p>
 
 <p align="center">
