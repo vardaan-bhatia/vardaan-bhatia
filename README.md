@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and TypeScript**
 
-- 💬 Ask me about **JavaScript, React.js, responsive web design, CSS frameworks (like Tailwind CSS)**
+- 💬 Ask me about **JavaScript, React.js, Responsive web design, and etc**
 
 - 📫 How to reach me **vardaanbhatia55@gmail.com**
 
