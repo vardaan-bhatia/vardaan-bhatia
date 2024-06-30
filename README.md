@@ -39,10 +39,11 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&theme=dark&count_private=true" alt="GitHub Profile Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vardaan-bhatia&show_icons=true&theme=dark&count_private=true" alt="GitHub Profile Stats" width="45%" />
 </p>
+
 
 
 
