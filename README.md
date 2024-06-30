@@ -37,7 +37,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000" alt="vardaan-bhatia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="vardaan-bhatia" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" width="45%" height="200px" />
