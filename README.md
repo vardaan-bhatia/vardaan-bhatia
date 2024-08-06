@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardaan-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="vardaan-bhatia" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and TypeScript**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
 - 💬 Ask me about **JavaScript, React.js, Responsive web design, and etc**
 
