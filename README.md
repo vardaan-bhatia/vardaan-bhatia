@@ -17,10 +17,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vardaan-bhatia-028446203/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/vardaanbhatia._/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://x.com/vardaanbhatia__" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/194/410/png-transparent-medium-medium-logo-social-media-circle-icon.png" alt="X" height="30" width="40" /></a>
-  <a href="https://medium.com/@vardaanbhatia55" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/194/410/png-transparent-medium-medium-logo-social-media-circle-icon.png" alt="Medium" height="30" width="40" /></a>
+  <a href="https://x.com/vardaanbhatia__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+   <a href="https://medium.com/@vardaanbhatia55" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/194/410/png-transparent-medium-medium-logo-social-media-circle-icon.png" alt="Medium" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
