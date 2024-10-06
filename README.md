@@ -18,7 +18,8 @@
   <a href="https://www.linkedin.com/in/vardaan-bhatia-028446203/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/vardaanbhatia._/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://x.com/vardaanbhatia__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://medium.com/@vardaanbhatia55" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Medium_logo.svg/1200px-Medium_logo.svg.png" alt="Medium" height="30" width="40" /></a>
+     <a href="https://medium.com/@vardaanbhatia55" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Medium_logo.svg/1200px-Medium_logo.svg.png" alt="Medium" height="30" width="40" /></a>
+
 
 </p>
 
