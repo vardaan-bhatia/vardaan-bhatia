@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm Vardaan</h1>
 <h3 align="center">Passionate Frontend Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vardaan-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="vardaan-bhatia" /> </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vardaan-bhatia-028446203/" target="_blank" style="color: #0077B6; text-decoration: none;">LinkedIn</a>
-  <a href="https://github.com/vardaan-bhatia" target="_blank" style="color: #0077B6; text-decoration: none;">Portfolio</a>
+  <a href="https://www.vardaanbhatia.com" target="_blank" style="color: #0077B6; text-decoration: none;">Portfolio</a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vardaan-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="vardaan-bhatia" /> </p>
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
@@ -24,5 +23,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
 </p>
 <p align="left">
+![](https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark&hide_border=false)<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
