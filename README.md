@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋 I'm Vardaan</h1>
 <h3 align="center">Passionate Frontend Developer from India</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vardaan-bhatia-028446203/" target="_blank" style="color: #fff; background-color: #0077B6; text-decoration: none; padding: 8px 16px; border-radius: 4px;">LinkedIn</a>
-  <a href="https://www.vardaanbhatia.com" target="_blank" style="color: #fff; background-color: #0077B6; text-decoration: none; padding: 8px 16px; border-radius: 4px;">Portfolio</a>
-  <a href="https://x.com/vardaanbhatia__" target="_blank" style="color: #fff; background-color: #0077B6; text-decoration: none; padding: 8px 16px; border-radius: 4px;">X</a>
+  <a href="https://www.linkedin.com/in/vardaan-bhatia-028446203/" target="_blank" style="color: #ffffff; background-color: #0077B6; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-size: 16px;">LinkedIn</a>
+  <a href="https://www.vardaanbhatia.com" target="_blank" style="color: #ffffff; background-color: #0077B6; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-size: 16px;">Portfolio</a>
+  <a href="https://x.com/vardaanbhatia__" target="_blank" style="color: #ffffff; background-color: #0077B6; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-size: 16px;">X</a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vardaan-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="vardaan-bhatia" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vardaan-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
@@ -22,7 +27,9 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark&hide_border=false" alt="Github Streak" />
+
+<h3 align="left">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-bhatia&layout=compact&langs_count=8&theme=dark" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardaan-bhatia&theme=dark&hide_border=false" alt="GitHub Streak" width="49%" />
 </p>
